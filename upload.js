@@ -22,7 +22,7 @@ if (process.argv.length == 4) { // Require a filename
 
 // Configurables
 const filename_on_git_mode = '100644';
-const commit_message = 'Why I love github';
+const commit_message = 'Why I love github - It\'s recursive. I\'m running  ./upload.js ./upload.js upload.js';
 const branch_ref_to_commit = "refs/heads/master";
 
 const step1_url = "https://" + username + ":" + apikey + "@api.github.com/repos/" + username + "/" + repo + "/git/refs/heads/master";
@@ -99,7 +99,7 @@ request(requestObjParams, function(s1error, s1response, s1body) {
                                 "author": {
                                   "name": "nolim1t",
                                   "email": "hello@nolim1t.co",
-                                  "date": "2017-03-09T07:28:45+08:00"
+                                  "date": "2017-03-09T07:30:45+08:00"
                                 }
                               });
                               request(requestObjParams, function(s4error, s4response, s4body) {
