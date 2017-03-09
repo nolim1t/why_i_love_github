@@ -14,6 +14,8 @@
 
 ## Send me cash!
 
+Bitcoins only accepted!
+
 ![1Mdnjtg9CFidwxWRHjaPamfDmTJVtg4nri](https://raw.githubusercontent.com/nolim1t/why_i_love_github/master/example.png)
 
-![Github Style!](https://octodex.github.com/images/gangnamtocat.png)
+## Oppa Github style![Github Style!](https://octodex.github.com/images/gangnamtocat.png)
